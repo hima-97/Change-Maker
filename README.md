@@ -15,4 +15,4 @@ The application can run on most android devices that have API level 23 or above 
 
 You can run the on most android devices that have API level 23 or above (Android 6.0 or above).
 
-![alt text](http://url/to/img.png)
+![alt text](C:\Users\himak\Desktop\Computer Science\Projects\Android Studio Projects\Change Maker)
