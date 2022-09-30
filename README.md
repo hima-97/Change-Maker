@@ -1,7 +1,7 @@
 # Project Description
 
 This project consists of building an Android mobile application that 
-calculates change for a specific amount of money.
+calculates change for a specific amount of money. <br>
 The change is calculated in terms of dollar bills (20, 10, 5, 1) and coins (quarter, dime, nickel, penny). <br>
 The application can run on most android devices that have API level 23 or above (Android 6.0 or above).
 
