@@ -199,6 +199,7 @@ class MainActivity : AppCompatActivity() {
         centText.text = "0"
     }
 
+    // For saving the state of work when changing layout:
     override fun onSaveInstanceState(outState: Bundle) {
         super.onSaveInstanceState(outState)
 
@@ -213,6 +214,7 @@ class MainActivity : AppCompatActivity() {
         outState.putString("cent", cent.toString())
     }
 
+    // For restoring the state of work when changing layout:
     override fun onRestoreInstanceState(savedInstanceState: Bundle) {
         super.onRestoreInstanceState(savedInstanceState)
 
