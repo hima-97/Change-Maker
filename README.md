@@ -14,5 +14,4 @@ The application can run on most android devices that have API level 23 or above 
 # Testing and Running the Application
 
 You can run the on most android devices that have API level 23 or above (Android 6.0 or above).
-
-![alt text](C:/Users/himak/Desktop/Computer Science/Projects/Android Studio Projects/Change Maker.jpg?raw=true)
+![](Change Maker.jpg)
