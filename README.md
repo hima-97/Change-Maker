@@ -15,4 +15,4 @@ The application can run on most android devices that have API level 23 or above 
 
 You can run the on most android devices that have API level 23 or above (Android 6.0 or above).
 
-![Change Maker](https://user-images.githubusercontent.com/66971869/193355861-7e551b2c-192e-466f-b236-3e7312036ba2.jpg)
+![Change Maker](https://user-images.githubusercontent.com/66971869/193356669-9486c7cb-3a41-402a-916f-f4b5ef014aeb.png)
